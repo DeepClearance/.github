@@ -1,7 +1,7 @@
 # Deep Clearance
 
 <p align="center">
-  <img src="DC_og_1200x630_v13_lockup.png" alt="Deep Clearance" width="640">
+  <img src="DC_og_1200x630_v13_lockup.png" alt="Deep Clearance. Institutional intelligence." width="640">
 </p>
 
 Understand the system. Challenge the narrative.
@@ -12,11 +12,17 @@ Primary-source research on institutional power. Every answer comes with the sour
 
 ---
 
-The public story is what a chemical company, a court, or an agency was willing to say. The documents show what they did, and what they spent to keep the rest quiet. Deep Clearance searches those documents.
+Deep Clearance is institutional intelligence for independent thinkers. It searches filings, court documents, released government files, patents, and interviews, and returns the passage with its source attached.
 
-The index is stored passages. It is not a live web crawl. About 1,476,000 passages sit under one standard, with the source attached to the answer. Classified documents stay outside the index.
+Every passage is labeled for what it can support. Documentation stays apart from inference, and the limits of the evidence are written down. Read the source. Draw your own conclusion.
 
-A connected model keeps mixed labels apart, names a missing label, and stops when the index has no passage. Login does not mint a free key.
+The index is stored passages. It is not a live web crawl. About 1,476,000 passages sit under one standard. Classified documents are not in the index. Login does not mint a free key.
+
+## Mission
+
+To equip independent thinkers with the evidence and intelligence to understand the institutions, incentives, and decisions shaping our economic and political world, so they can challenge prevailing narratives with verifiable facts.
+
+The work covers institutional mechanisms and incentives, monetary and economic context, and source trails, with an assessment of how strong each piece of evidence is. Unknowns are stated plainly. It does not assume hidden motives. It does not turn weak associations into allegations, or present a contested reading as settled fact.
 
 ## How a passage is labeled
 
@@ -38,7 +44,7 @@ Depth is not a second copy of strength. A government report can still quote a we
 - **T3** is one argument, standing on its own, with the points that would knock it down written down.
 - **T4** uses more than one of those arguments together, after each one has been checked on its own.
 
-The branded subject gets read second. When a subject has been called misinformation, deplatformed, or litigated into silence, the first pass is the suppression itself. Who paid for it, when it started, and what form it took come before the branded claim.
+Contested subjects are read in full. When a subject has been labeled misinformation, deplatformed, or taken to court, Deep Clearance reads that history first. Who acted, when, and in what form, as the documents show it. Every major claim says how it could fail. The strongest account on the other side sits beside the thesis.
 
 ## What is in the index
 
@@ -58,6 +64,7 @@ Every plan searches the same documents. A plan buys days and a daily cap. Trial 
 | | |
 | --- | --- |
 | Product | [deepclearance.com](https://deepclearance.com) |
+| About | [Mission and vision](https://deepclearance.com/about/) |
 | Methodology | [How the labels stay apart](https://deepclearance.com/methodology/) |
 | Docs | [Endpoint, tools, topic pins, caps](https://deepclearance.com/docs/) |
 | Plans | [Trial, Researcher, Control](https://deepclearance.com/pricing/) |
